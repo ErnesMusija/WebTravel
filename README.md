@@ -3,12 +3,12 @@ Projekat je uradjen koristeci node.js backend sa html i css frontend tehnologija
 
 Funkcionalnosti koje aplikacija nudi su:
 
-  Registracija korisnika
+  -Registracija korisnika
   
-  Prijava korisnika na svoj racun
+  -Prijava korisnika na svoj racun
   
-  Pregled svih putovanja
+  -Pregled svih putovanja
   
-  Filtriranje putovanja po kategorijama
+  -Filtriranje putovanja po kategorijama
   
-  Pregled putovanja sa postavljenim pitanjima
+  -Pregled putovanja sa postavljenim pitanjima
